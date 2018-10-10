@@ -1,1 +1,1 @@
-# myassets
+# my static assets
